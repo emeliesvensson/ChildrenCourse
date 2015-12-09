@@ -36,6 +36,7 @@ ModelImporter:
     100056: RightFoot
     100058: RightHand
     100060: RightLeg
+    100062: Cylinder
     400000: //RootNode
     400002: Cone
     400004: Cone_001
@@ -67,6 +68,7 @@ ModelImporter:
     400056: RightFoot
     400058: RightHand
     400060: RightLeg
+    400062: Cylinder
     2300000: Cone
     2300002: Cone_001
     2300004: Cube
@@ -97,6 +99,7 @@ ModelImporter:
     2300054: RightFoot
     2300056: RightHand
     2300058: RightLeg
+    2300060: Cylinder
     3300000: Cone
     3300002: Cone_001
     3300004: Cube
@@ -127,6 +130,7 @@ ModelImporter:
     3300054: RightFoot
     3300056: RightHand
     3300058: RightLeg
+    3300060: Cylinder
     4300000: Cube_010
     4300002: Cube_009
     4300004: Cube_008
@@ -157,6 +161,7 @@ ModelImporter:
     4300054: RightEar
     4300056: LeftEye
     4300058: RightEye
+    4300060: Cylinder
     7400000: Default Take
     9500000: //RootNode
   materials:
