@@ -22,6 +22,9 @@ ModelImporter:
     100028: RightFoot
     100030: RightHand
     100032: RightLeg
+    100034: Cube
+    100036: Cube.001
+    100038: Cylinder
     400000: Body
     400002: Camera
     400004: //RootNode
@@ -39,6 +42,9 @@ ModelImporter:
     400028: RightFoot
     400030: RightHand
     400032: RightLeg
+    400034: Cube
+    400036: Cube.001
+    400038: Cylinder
     2300000: Body
     2300002: Hat
     2300004: HatBoll
@@ -54,6 +60,9 @@ ModelImporter:
     2300024: RightFoot
     2300026: RightHand
     2300028: RightLeg
+    2300030: Cube
+    2300032: Cube.001
+    2300034: Cylinder
     3300000: Body
     3300002: Hat
     3300004: HatBoll
@@ -69,6 +78,9 @@ ModelImporter:
     3300024: RightFoot
     3300026: RightHand
     3300028: RightLeg
+    3300030: Cube
+    3300032: Cube.001
+    3300034: Cylinder
     4300000: Hat
     4300002: HatBoll
     4300004: Body
@@ -84,6 +96,334 @@ ModelImporter:
     4300024: RightEar
     4300026: LeftEye
     4300028: RightEye
+    4300030: Cylinder
+    4300032: Cube.001
+    4300034: Cube
+    7400000: Body|Cube.001Action
+    7400002: Body|CubeAction
+    7400004: Body|CylinderAction
+    7400006: Body|HatAction
+    7400008: Body|HatBollAction
+    7400010: Body|HeadAction
+    7400012: Body|Jump
+    7400014: Body|LeftEarAction
+    7400016: Body|LeftEyeAction
+    7400018: Body|LeftFootAction
+    7400020: Body|LeftHandAction
+    7400022: Body|LeftLegAction
+    7400024: Body|NoseAction
+    7400026: Body|RightEarAction
+    7400028: Body|RightEyeAction
+    7400030: Body|RightFootAction
+    7400032: Body|RightHandAction
+    7400034: Body|RightLegAction
+    7400036: Cylinder|Cube.001Action
+    7400038: Cylinder|CubeAction
+    7400040: Cylinder|CylinderAction
+    7400042: Cylinder|HatAction
+    7400044: Cylinder|HatBollAction
+    7400046: Cylinder|HeadAction
+    7400048: Cylinder|Jump
+    7400050: Cylinder|LeftEarAction
+    7400052: Cylinder|LeftEyeAction
+    7400054: Cylinder|LeftFootAction
+    7400056: Cylinder|LeftHandAction
+    7400058: Cylinder|LeftLegAction
+    7400060: Cylinder|NoseAction
+    7400062: Cylinder|RightEarAction
+    7400064: Cylinder|RightEyeAction
+    7400066: Cylinder|RightFootAction
+    7400068: Cylinder|RightHandAction
+    7400070: Cylinder|RightLegAction
+    7400072: Cube.001|Cube.001Action
+    7400074: Cube.001|CubeAction
+    7400076: Cube.001|CylinderAction
+    7400078: Cube.001|HatAction
+    7400080: Cube.001|HatBollAction
+    7400082: Cube.001|HeadAction
+    7400084: Cube.001|Jump
+    7400086: Cube.001|LeftEarAction
+    7400088: Cube.001|LeftEyeAction
+    7400090: Cube.001|LeftFootAction
+    7400092: Cube.001|LeftHandAction
+    7400094: Cube.001|LeftLegAction
+    7400096: Cube.001|NoseAction
+    7400098: Cube.001|RightEarAction
+    7400100: Cube.001|RightEyeAction
+    7400102: Cube.001|RightFootAction
+    7400104: Cube.001|RightHandAction
+    7400106: Cube.001|RightLegAction
+    7400108: Cube|Cube.001Action
+    7400110: Cube|CubeAction
+    7400112: Cube|CylinderAction
+    7400114: Cube|HatAction
+    7400116: Cube|HatBollAction
+    7400118: Cube|HeadAction
+    7400120: Cube|Jump
+    7400122: Cube|LeftEarAction
+    7400124: Cube|LeftEyeAction
+    7400126: Cube|LeftFootAction
+    7400128: Cube|LeftHandAction
+    7400130: Cube|LeftLegAction
+    7400132: Cube|NoseAction
+    7400134: Cube|RightEarAction
+    7400136: Cube|RightEyeAction
+    7400138: Cube|RightFootAction
+    7400140: Cube|RightHandAction
+    7400142: Cube|RightLegAction
+    7400144: Hat|Cube.001Action
+    7400146: Hat|CubeAction
+    7400148: Hat|CylinderAction
+    7400150: Hat|HatAction
+    7400152: Hat|HatBollAction
+    7400154: Hat|HeadAction
+    7400156: Hat|Jump
+    7400158: Hat|LeftEarAction
+    7400160: Hat|LeftEyeAction
+    7400162: Hat|LeftFootAction
+    7400164: Hat|LeftHandAction
+    7400166: Hat|LeftLegAction
+    7400168: Hat|NoseAction
+    7400170: Hat|RightEarAction
+    7400172: Hat|RightEyeAction
+    7400174: Hat|RightFootAction
+    7400176: Hat|RightHandAction
+    7400178: Hat|RightLegAction
+    7400180: HatBoll|Cube.001Action
+    7400182: HatBoll|CubeAction
+    7400184: HatBoll|CylinderAction
+    7400186: HatBoll|HatAction
+    7400188: HatBoll|HatBollAction
+    7400190: HatBoll|HeadAction
+    7400192: HatBoll|Jump
+    7400194: HatBoll|LeftEarAction
+    7400196: HatBoll|LeftEyeAction
+    7400198: HatBoll|LeftFootAction
+    7400200: HatBoll|LeftHandAction
+    7400202: HatBoll|LeftLegAction
+    7400204: HatBoll|NoseAction
+    7400206: HatBoll|RightEarAction
+    7400208: HatBoll|RightEyeAction
+    7400210: HatBoll|RightFootAction
+    7400212: HatBoll|RightHandAction
+    7400214: HatBoll|RightLegAction
+    7400216: LeftHand|Cube.001Action
+    7400218: LeftHand|CubeAction
+    7400220: LeftHand|CylinderAction
+    7400222: LeftHand|HatAction
+    7400224: LeftHand|HatBollAction
+    7400226: LeftHand|HeadAction
+    7400228: LeftHand|Jump
+    7400230: LeftHand|LeftEarAction
+    7400232: LeftHand|LeftEyeAction
+    7400234: LeftHand|LeftFootAction
+    7400236: LeftHand|LeftHandAction
+    7400238: LeftHand|LeftLegAction
+    7400240: LeftHand|NoseAction
+    7400242: LeftHand|RightEarAction
+    7400244: LeftHand|RightEyeAction
+    7400246: LeftHand|RightFootAction
+    7400248: LeftHand|RightHandAction
+    7400250: LeftHand|RightLegAction
+    7400252: RightHand|Cube.001Action
+    7400254: RightHand|CubeAction
+    7400256: RightHand|CylinderAction
+    7400258: RightHand|HatAction
+    7400260: RightHand|HatBollAction
+    7400262: RightHand|HeadAction
+    7400264: RightHand|Jump
+    7400266: RightHand|LeftEarAction
+    7400268: RightHand|LeftEyeAction
+    7400270: RightHand|LeftFootAction
+    7400272: RightHand|LeftHandAction
+    7400274: RightHand|LeftLegAction
+    7400276: RightHand|NoseAction
+    7400278: RightHand|RightEarAction
+    7400280: RightHand|RightEyeAction
+    7400282: RightHand|RightFootAction
+    7400284: RightHand|RightHandAction
+    7400286: RightHand|RightLegAction
+    7400288: LeftLeg|Cube.001Action
+    7400290: LeftLeg|CubeAction
+    7400292: LeftLeg|CylinderAction
+    7400294: LeftLeg|HatAction
+    7400296: LeftLeg|HatBollAction
+    7400298: LeftLeg|HeadAction
+    7400300: LeftLeg|Jump
+    7400302: LeftLeg|LeftEarAction
+    7400304: LeftLeg|LeftEyeAction
+    7400306: LeftLeg|LeftFootAction
+    7400308: LeftLeg|LeftHandAction
+    7400310: LeftLeg|LeftLegAction
+    7400312: LeftLeg|NoseAction
+    7400314: LeftLeg|RightEarAction
+    7400316: LeftLeg|RightEyeAction
+    7400318: LeftLeg|RightFootAction
+    7400320: LeftLeg|RightHandAction
+    7400322: LeftLeg|RightLegAction
+    7400324: LeftFoot|Cube.001Action
+    7400326: LeftFoot|CubeAction
+    7400328: LeftFoot|CylinderAction
+    7400330: LeftFoot|HatAction
+    7400332: LeftFoot|HatBollAction
+    7400334: LeftFoot|HeadAction
+    7400336: LeftFoot|Jump
+    7400338: LeftFoot|LeftEarAction
+    7400340: LeftFoot|LeftEyeAction
+    7400342: LeftFoot|LeftFootAction
+    7400344: LeftFoot|LeftHandAction
+    7400346: LeftFoot|LeftLegAction
+    7400348: LeftFoot|NoseAction
+    7400350: LeftFoot|RightEarAction
+    7400352: LeftFoot|RightEyeAction
+    7400354: LeftFoot|RightFootAction
+    7400356: LeftFoot|RightHandAction
+    7400358: LeftFoot|RightLegAction
+    7400360: RightLeg|Cube.001Action
+    7400362: RightLeg|CubeAction
+    7400364: RightLeg|CylinderAction
+    7400366: RightLeg|HatAction
+    7400368: RightLeg|HatBollAction
+    7400370: RightLeg|HeadAction
+    7400372: RightLeg|Jump
+    7400374: RightLeg|LeftEarAction
+    7400376: RightLeg|LeftEyeAction
+    7400378: RightLeg|LeftFootAction
+    7400380: RightLeg|LeftHandAction
+    7400382: RightLeg|LeftLegAction
+    7400384: RightLeg|NoseAction
+    7400386: RightLeg|RightEarAction
+    7400388: RightLeg|RightEyeAction
+    7400390: RightLeg|RightFootAction
+    7400392: RightLeg|RightHandAction
+    7400394: RightLeg|RightLegAction
+    7400396: RightFoot|Cube.001Action
+    7400398: RightFoot|CubeAction
+    7400400: RightFoot|CylinderAction
+    7400402: RightFoot|HatAction
+    7400404: RightFoot|HatBollAction
+    7400406: RightFoot|HeadAction
+    7400408: RightFoot|Jump
+    7400410: RightFoot|LeftEarAction
+    7400412: RightFoot|LeftEyeAction
+    7400414: RightFoot|LeftFootAction
+    7400416: RightFoot|LeftHandAction
+    7400418: RightFoot|LeftLegAction
+    7400420: RightFoot|NoseAction
+    7400422: RightFoot|RightEarAction
+    7400424: RightFoot|RightEyeAction
+    7400426: RightFoot|RightFootAction
+    7400428: RightFoot|RightHandAction
+    7400430: RightFoot|RightLegAction
+    7400432: Head|Cube.001Action
+    7400434: Head|CubeAction
+    7400436: Head|CylinderAction
+    7400438: Head|HatAction
+    7400440: Head|HatBollAction
+    7400442: Head|HeadAction
+    7400444: Head|Jump
+    7400446: Head|LeftEarAction
+    7400448: Head|LeftEyeAction
+    7400450: Head|LeftFootAction
+    7400452: Head|LeftHandAction
+    7400454: Head|LeftLegAction
+    7400456: Head|NoseAction
+    7400458: Head|RightEarAction
+    7400460: Head|RightEyeAction
+    7400462: Head|RightFootAction
+    7400464: Head|RightHandAction
+    7400466: Head|RightLegAction
+    7400468: Nose|Cube.001Action
+    7400470: Nose|CubeAction
+    7400472: Nose|CylinderAction
+    7400474: Nose|HatAction
+    7400476: Nose|HatBollAction
+    7400478: Nose|HeadAction
+    7400480: Nose|Jump
+    7400482: Nose|LeftEarAction
+    7400484: Nose|LeftEyeAction
+    7400486: Nose|LeftFootAction
+    7400488: Nose|LeftHandAction
+    7400490: Nose|LeftLegAction
+    7400492: Nose|NoseAction
+    7400494: Nose|RightEarAction
+    7400496: Nose|RightEyeAction
+    7400498: Nose|RightFootAction
+    7400500: Nose|RightHandAction
+    7400502: Nose|RightLegAction
+    7400504: LeftEar|Cube.001Action
+    7400506: LeftEar|CubeAction
+    7400508: LeftEar|CylinderAction
+    7400510: LeftEar|HatAction
+    7400512: LeftEar|HatBollAction
+    7400514: LeftEar|HeadAction
+    7400516: LeftEar|Jump
+    7400518: LeftEar|LeftEarAction
+    7400520: LeftEar|LeftEyeAction
+    7400522: LeftEar|LeftFootAction
+    7400524: LeftEar|LeftHandAction
+    7400526: LeftEar|LeftLegAction
+    7400528: LeftEar|NoseAction
+    7400530: LeftEar|RightEarAction
+    7400532: LeftEar|RightEyeAction
+    7400534: LeftEar|RightFootAction
+    7400536: LeftEar|RightHandAction
+    7400538: LeftEar|RightLegAction
+    7400540: RightEar|Cube.001Action
+    7400542: RightEar|CubeAction
+    7400544: RightEar|CylinderAction
+    7400546: RightEar|HatAction
+    7400548: RightEar|HatBollAction
+    7400550: RightEar|HeadAction
+    7400552: RightEar|Jump
+    7400554: RightEar|LeftEarAction
+    7400556: RightEar|LeftEyeAction
+    7400558: RightEar|LeftFootAction
+    7400560: RightEar|LeftHandAction
+    7400562: RightEar|LeftLegAction
+    7400564: RightEar|NoseAction
+    7400566: RightEar|RightEarAction
+    7400568: RightEar|RightEyeAction
+    7400570: RightEar|RightFootAction
+    7400572: RightEar|RightHandAction
+    7400574: RightEar|RightLegAction
+    7400576: LeftEye|Cube.001Action
+    7400578: LeftEye|CubeAction
+    7400580: LeftEye|CylinderAction
+    7400582: LeftEye|HatAction
+    7400584: LeftEye|HatBollAction
+    7400586: LeftEye|HeadAction
+    7400588: LeftEye|Jump
+    7400590: LeftEye|LeftEarAction
+    7400592: LeftEye|LeftEyeAction
+    7400594: LeftEye|LeftFootAction
+    7400596: LeftEye|LeftHandAction
+    7400598: LeftEye|LeftLegAction
+    7400600: LeftEye|NoseAction
+    7400602: LeftEye|RightEarAction
+    7400604: LeftEye|RightEyeAction
+    7400606: LeftEye|RightFootAction
+    7400608: LeftEye|RightHandAction
+    7400610: LeftEye|RightLegAction
+    7400612: RightEye|Cube.001Action
+    7400614: RightEye|CubeAction
+    7400616: RightEye|CylinderAction
+    7400618: RightEye|HatAction
+    7400620: RightEye|HatBollAction
+    7400622: RightEye|HeadAction
+    7400624: RightEye|Jump
+    7400626: RightEye|LeftEarAction
+    7400628: RightEye|LeftEyeAction
+    7400630: RightEye|LeftFootAction
+    7400632: RightEye|LeftHandAction
+    7400634: RightEye|LeftLegAction
+    7400636: RightEye|NoseAction
+    7400638: RightEye|RightEarAction
+    7400640: RightEye|RightEyeAction
+    7400642: RightEye|RightFootAction
+    7400644: RightEye|RightHandAction
+    7400646: RightEye|RightLegAction
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -142,7 +482,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

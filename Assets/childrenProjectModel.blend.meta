@@ -100,6 +100,7 @@ ModelImporter:
     2300056: RightHand
     2300058: RightLeg
     2300060: Cylinder
+    2300062: //RootNode
     3300000: Cone
     3300002: Cone_001
     3300004: Cube
@@ -131,6 +132,7 @@ ModelImporter:
     3300056: RightHand
     3300058: RightLeg
     3300060: Cylinder
+    3300062: //RootNode
     4300000: Cube_010
     4300002: Cube_009
     4300004: Cube_008
